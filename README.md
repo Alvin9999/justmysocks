@@ -111,5 +111,5 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks.net/members/a
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-5.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/jms-5.png" alt="Just My Socks shadowsocks详情" /></a>
 </p>
-<h2 id="user-content-just6"><span id="just_my_socks-6">六、Just My Socks怎么用</span></h2>
+<h2 id="user-content-just6"><span id="just_my_socks-6"></span></h2>
 <p class="keepp">
