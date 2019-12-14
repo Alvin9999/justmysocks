@@ -49,7 +49,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>100 GB /月</td>
 <td>$2.88 / 月</td>
 <td>最多3个设备同时在线(当前断货)</td>
-<td><a rel="nofollow" href="https://lihi1.com/vbBxA">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks1.net/members/aff.php?aff=8225&pid=1">立即购买</a></td>
 </tr>
 <tr>
 <td>Just My Socks 500</td>
@@ -57,7 +57,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>500 GB / 月</td>
 <td>$5.88 / 月</td>
 <td>最多5个设备同时在线</td>
-<td><a rel="nofollow" href="https://lihi1.com/cEsnp">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks1.net/members/aff.php?aff=8225&pid=2">立即购买</a></td>
 </tr>
 <tr>
 <td>Just My Socks 1000</td>
@@ -65,7 +65,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>1TB / 月</td>
 <td>$9.88 / 月</td>
 <td>不限制设备数量</td>
-<td><a rel="nofollow" href="https://lihi1.com/l28hA">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks1.net/members/aff.php?aff=8225&pid=3">立即购买</a></td>
 </tr>
 <tr>
 <td>Just My Socks 5000</td>
@@ -73,7 +73,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <td>5TB / 月</td>
 <td>$48.99 / 月</td>
 <td>不限制设备数量</td>
-<td><a rel="nofollow" href="https://lihi1.com/Tov44">立即购买</a></td>
+<td><a rel="nofollow" href="https://justmysocks1.net/members/aff.php?aff=8225&pid=4">立即购买</a></td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +83,7 @@ Just My Socks 100仅支持TCP协议，该协议足以用于浏览网络以及使
 <p class="keepp">
 选择合适的Just My Socks方案后，点击“立即购买”进入购买页，确认配置无误后，建议年付（Annually），只需要付10个月的价格，点击Continue继续：
 <br class="keepp">
-Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My Socks 官网</a>
+Just My Socks 官网：<a rel="nofollow" href="https://justmysocks.net/members/aff.php?aff=8225&gid=1">Just My Socks 官网</a>
 </p>
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-1.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/jms-1.png" alt="Just My Socks 购买教程" /></a>
 <h2 id="user-content-just3"><span id="just_my_socks-3">三、Just My Socks优惠码</span></h2>
@@ -102,7 +102,7 @@ Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My 
 </p>
 <h2 id="user-content-just5"><span id="just_my_socks-5">五、Just My Socks信息查看</span></h2>
 <p class="keepp">
-完成Just My Socks购买后，登陆<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My Socks 官网</a>，选择Services-&gt;My Services，就可以看到你刚才买的服务了，点击这个服务查看详情：
+完成Just My Socks购买后，登陆<a rel="nofollow" href="https://justmysocks.net/members/aff.php?aff=8225&gid=1">Just My Socks 官网</a>，选择Services-&gt;My Services，就可以看到你刚才买的服务了，点击这个服务查看详情：
 <br class="keepp">
 <a href="https://github.com/killgcd/justmysocks/blob/master/images/jms-4.png" target="_blank" rel="noopener noreferrer"><img style="max-width:100%" src="https://github.com/killgcd/justmysocks/raw/master/images/jms-4.png" alt="Just My Socks 我的服务" /></a>
 </p>
@@ -113,12 +113,3 @@ Just My Socks 官网：<a rel="nofollow" href="https://lihi1.com/l0QrZ">Just My 
 </p>
 <h2 id="user-content-just6"><span id="just_my_socks-6">六、Just My Socks怎么用</span></h2>
 <p class="keepp">
-有了shadowsocks账号后，接下来怎么用？剩下的只需要配置shadowsocks客户端了，非常方便，详细的教程看这里（该教程链接已被墙，请<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">翻墙</a>查看）：<a rel="nofollow" href="https://doubi.us/jeptq9ir-2.html">Shadowsocks的小白使用教程</a>
-</p>
-
-<p class="keepp"><strong>反馈交流：</strong><a href="https://github.com/bannedbook/fanqiang/issues"  rel="nofollow">如果有任何问题，欢迎大家交流！</a></p>
-<p class="keepp"><strong>免责声明：</strong>我们推荐的任何产品和服务已努力确保可靠持久，但我们不为此承担任何责任。本库一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本库概不负责！</p>
-<p class="keepp">&nbsp;</p>
-<p class="keepp">&nbsp;</p>
-<p class="keepp">&nbsp;</p>
-<p class="keepp"><strong>转自：</strong><a class="link-gray" href="https://doubibackup.com/bandwagonhost-just-my-socks.html"  rel="nofollow" style="color:#555">逗比根据地-Just My Socks：搬瓦工官方Shadowsocks代理，多条线路，保证IP不被墙</a></p>
