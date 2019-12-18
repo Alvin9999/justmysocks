@@ -114,4 +114,4 @@ Just My Socks 官网：<a rel="nofollow" href="https://justmysocks.net/members/a
 <h2 id="user-content-just6"><span id="just_my_socks-6"></span></h2>
 <p class="keepp">
 
-[全平台SS/SSR客户端下载汇总](https://www.mediafire.com/folder/btkdbx7j9lr98/Shadowsocks_%E7%9B%B8%E5%85%B3%E5%AE%A2%E6%88%B7%E7%AB%AF)
+[全平台SS/SSR客户端下载汇总]([全平台SS/SSR客户端下载汇总](http://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks相关客户端))
